@@ -168,7 +168,7 @@
          "name":"room tables",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
