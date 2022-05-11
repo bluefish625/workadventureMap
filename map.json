@@ -129,6 +129,12 @@
          "id":3,
          "name":"wall",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collidable",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":48,
